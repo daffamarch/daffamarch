@@ -1,4 +1,4 @@
-#**Halo semua!**
+# **Halo semua!**
 Perkenalkan nama saya **Muhammad Daffa Marchdiansyah**
 Saya seorang mahasiswa Sistem Informasi di Telkom University.
 Saat ini saya sedang mendalami fokus di bidang AI Engineering melalui program TEMPA dari Dicoding.
